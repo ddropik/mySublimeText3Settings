@@ -1,0 +1,6 @@
+/*[
+{"keys":["control+f9"],"command":"run_emmet_action"}
+]*/
+
+[	{"keys": ["option+tab"], "args": {"action": "expand_abbreviation"}, "command": "run_emmet_action",
+"context": [{"key": "emmet_action_enabled.expand_abbreviation"}]}]
